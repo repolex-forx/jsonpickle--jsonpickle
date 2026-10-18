@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/jsonpickle/jsonpickle/commit/9bf812997efc5e2d0a2dd2a27073d068569604ae",
       "git:hexsha": "9bf812997efc5e2d0a2dd2a27073d068569604ae",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T04:08:01.306136+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jsonpickle/jsonpickle/commit/3cf6216a25ec4fdcf4bbbe1ba47db6218a721b11",
