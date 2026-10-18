@@ -1,0 +1,11 @@
+{
+  "org": "jsonpickle",
+  "repo": "jsonpickle",
+  "versions": [
+    {
+      "commit": "9bf812997efc5e2d0a2dd2a27073d068569604ae",
+      "tag": "",
+      "parsed_at": "2026-10-18T04:08:01.306902+00:00"
+    }
+  ]
+}
